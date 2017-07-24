@@ -6,6 +6,7 @@ import java.sql.Statement;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+//A simple JDBC test program
 public class TestDB {
 
     public static void main(String[] args) {
